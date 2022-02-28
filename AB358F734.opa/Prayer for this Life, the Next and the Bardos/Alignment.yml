@@ -1,0 +1,28 @@
+segment_sources:
+  PE7E81E81:
+    type: origin_type
+    relation: translation
+    language: en
+  P422D93A4:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  db68c0097ed84441afed57fc092c9de7:
+    PE7E81E81: d18872967d4b4a99a021ec123dc6c847
+    P422D93A4: 0f7491c7d78e48c7ac6e747ef49a24c0
+  c592fc0ea9014b7e87b93218bbd1b654:
+    PE7E81E81: 46dc536ad8b14bd387736d628377c7b8
+    P422D93A4: 05d073ddc4c94cb0b0fe7f98bc45f41c
+  a9343efc87ee4521beb2c8bff0530e0b:
+    PE7E81E81: 18f6038244f74f5db900689b57a10c04
+    P422D93A4: 85ca4f52a9f245d89f1c8ee91c268e89
+  9fe3363fd4174e299132f0542788e097:
+    PE7E81E81: 658c8a081a7a4e0e83f42ef4161746cd
+    P422D93A4: 7e1919e9a9714408bd8da9a8cf9cde88
+  456c5fb583884684ae7b1e0ce1b2f06e:
+    PE7E81E81: 08f99a7497ab4efdbaa2d66890521db4
+    P422D93A4: e485f540a699427db97dc4eb2fcd4289
+  af7f4614e50946e692376cfd842250aa:
+    PE7E81E81: 3ed7b976eb7446e59445308d6d36a14f
+    P422D93A4: b69585056d4e465580c8878010b90a32
